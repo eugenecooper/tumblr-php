@@ -1,8 +1,8 @@
 {
-    "name": "matheusmariano/tumblr",
+    "name": "eugenecooper/tumblr",
     "description": "A unofficial Tumblr API Client for PHP.",
     "keywords": ["tumblr", "api", "client"],
-    "homepage": "https://github.com/matheusmariano/tumblr-php",
+    "homepage": "https://github.com/eugenecooper/tumblr-php",
     "authors": [
         {
             "name": "Matheus Mariano",
